@@ -60,10 +60,6 @@ body {
     cursor: pointer;
 }
 
-.quadrato:hover {
-    transform: scale(1.1);
-}
-
 .selezionato {
     background-color: blue;
     color: blue;
